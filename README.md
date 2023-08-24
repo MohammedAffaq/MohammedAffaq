@@ -1,6 +1,6 @@
 # MohammedAffaq
 # 💫 About Me:
-🔭 I’m currently working on java full stack <br>👯 I’m looking to collaborate on real time projects using java <br>🤝 I’m looking for help with developing Home automation system using java and IOT<br>🌱 I’m currently learning Spring boot and Hibernate<br>💬 Ask me about java and IOT<br>⚡ Fun fact - I like my bed more than I like most people
+🔭 I’m currently working on Java full stack <br>👯 I’m looking to collaborate on real time projects using java <br>🤝 I’m looking for help with developing Home automation system using java and IOT<br>🌱 I’m currently learning Spring boot and Hibernate<br>💬 Ask me about java and IOT<br>⚡ Fun fact - I like my bed more than I like most people
 
 
 ## 🌐 Socials:
