@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java full-stack<br>👯 I’m looking to collaborate on real-time projects using java<br>🤝 I’m looking for help with developing a Home automation system using Java and IOT<br>🌱 I’m currently learning Spring Boot and Hibernate<br>💬 Ask me about Java and IOT<br>⚡ Fun fact - I like my bed more than I like most people
+🔭 I’m currently working on Front-end Development<br>👯 I’m looking to collaborate on real-time projects using React.js<br>🤝 I’m looking for help with developing a more modern websites<br>🌱 I’m currently learning Backend<br>💬 Ask me about Java and React<br>⚡ Fun fact - I like my bed more than I like most people
 
 
 ## 🌐 Socials:
